@@ -1,6 +1,6 @@
 ﻿import openai
 from typing import Optional
-key = "sk-EMsGrX6d6VsQ09isuTeST3BlbkFJScrbZx654ofD8BFVZFfD" //Add a working personal key! 
+key = "sk-EMsGrX6d6VsQ09isuTeST3BlbkFJScrbZx654ofD8BFVZFfD" #Add a working personal key! 
 openai.api_key = key
 
 #try placing the key into a txt file and use withopen and file.read to get the key*
